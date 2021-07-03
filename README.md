@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trapano-monogamo
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning some basic algorithms and data structures, all by myself.
+- 👀 I'm interested in learning Computer Graphics and Operating Systems mainly.
+- 🌱 I’m currently learning random topics that interest me, all by myself.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
